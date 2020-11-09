@@ -71,7 +71,7 @@ for week in range(1, rosters['num_weeks']+1): #16 weeks total
     for team in range(1, rosters['num_teams']+1): #assuming 12 teams
         print(team, end=" ")
         tm_wk = 'team_'+str(team)+'_wk_' + str(week) + '_roster.json'
-        path = '../rosters/week_'+str(week)+'/'
+        path = 'C:/Users/mabur/Yahoo_API_Group2/rosters/week_'+str(week)+'/'
         file_name = path + tm_wk
 
         load_file = open(file_name) # load roster JSON from initial data scrape
