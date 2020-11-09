@@ -1,6 +1,7 @@
 #!/bin/sh
 cd ~/Yahoo_API_Group2/
 
+git status
 git add --all
 timestamp() {
   date +"at %H:%M:%S on %d/%m/%Y"
