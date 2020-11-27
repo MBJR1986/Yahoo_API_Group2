@@ -2,17 +2,17 @@
 QB,Russell Wilson,Justin Herbert,Josh Allen,Aaron Rodgers,Patrick Mahomes,Derek Carr,Lamar Jackson,Kyler Murray,Deshaun Watson,Carson Wentz
 WR1,Terry McLaurin,Cooper Kupp,DK Metcalf,Mike Evans,Keenan Allen,Davante Adams,Allen Robinson II,Will Fuller V,Michael Thomas,DeAndre Hopkins
 WR2,A.J. Brown,Robby Anderson,Calvin Ridley,Tyler Boyd,Adam Thielen,Mike Williams,Travis Fulgham,DJ Moore,DeVante Parker,Justin Jefferson
-RB1,Miles Sanders,Alvin Kamara,Derrick Henry,Aaron Jones,Ronald Jones II,Leonard Fournette,Nick Chubb,Rex Burkhead,Kareem Hunt,James Conner
-RB2,Giovani Bernard,Josh Jacobs,Dalvin Cook,David Montgomery,Clyde Edwards-Helaire,Mike Davis,Antonio Gibson,Todd Gurley II,Ezekiel Elliott,Kerryon Johnson
+RB1,Miles Sanders,Alvin Kamara,Derrick Henry,Aaron Jones,Ronald Jones II,Leonard Fournette,Nick Chubb,Todd Gurley II,Kareem Hunt,James Conner
+RB2,Giovani Bernard,Josh Jacobs,Dalvin Cook,David Montgomery,Clyde Edwards-Helaire,Mike Davis,Antonio Gibson,Gus Edwards,Ezekiel Elliott,Kerryon Johnson
 TE,Darren Waller,Eric Ebron,T.J. Hockenson,Travis Kelce,Jonnu Smith,Evan Engram,Mark Andrews,Noah Fant,Hunter Henry,Dallas Goedert
 W/R/T,Robert Woods,Jonathan Taylor,Diontae Johnson,Marvin Jones Jr.,Tyler Lockett,Kenyan Drake,Salvon Ahmed,JuJu Smith-Schuster,James Robinson,Tyreek Hill
-BN1,Christian McCaffrey,Hayden Hurst,Matthew Stafford,Jamaal Williams,Darrell Henderson Jr.,Tom Brady,Cole Beasley,Gus Edwards,Ben Roethlisberger,Kalen Ballage
-BN2,Nyheim Hines,Julio Jones,Duke Johnson,Sammy Watkins,Amari Cooper,Jakobi Meyers,Wayne Gallman Jr.,J.K. Dobbins,Brandin Cooks,Melvin Gordon III
-BN3,Kenny Golladay,Jerry Jeudy,DJ Chark Jr.,A.J. Green,Chase Claypool,Robert Tonyan,J.D. McKissic,D'Andre Swift,Jarvis Landry,Antonio Brown
-BN4,Le'Veon Bell,Chase Edmonds,Mike Gesicki,Alexander Mattison,John Brown,Darius Slayton,Jamison Crowder,Stefon Diggs,Austin Hooper,Chris Godwin
-BN5,Jalen Reagor,Matt Ryan,Marquise Brown,Kirk Cousins,Mark Ingram II,Phillip Lindsay,Tee Higgins,Chris Carson,Ryan Tannehill,Christian Kirk
+BN1,Christian McCaffrey,Hayden Hurst,Matthew Stafford,Jamaal Williams,Darrell Henderson Jr.,Tom Brady,Cole Beasley,Chris Carson,Ben Roethlisberger,Kalen Ballage
+BN2,Nyheim Hines,Julio Jones,Duke Johnson,Sammy Watkins,Amari Cooper,Jakobi Meyers,Wayne Gallman Jr.,Rex Burkhead,Brandin Cooks,Melvin Gordon III
+BN3,Kenny Golladay,Jerry Jeudy,DJ Chark Jr.,A.J. Green,Chase Claypool,Robert Tonyan,J.D. McKissic,J.K. Dobbins,Jarvis Landry,Antonio Brown
+BN4,Le'Veon Bell,Chase Edmonds,Mike Gesicki,Alexander Mattison,John Brown,Darius Slayton,Jamison Crowder,D'Andre Swift,Austin Hooper,Chris Godwin
+BN5,Jalen Reagor,Matt Ryan,Marquise Brown,Kirk Cousins,Mark Ingram II,Phillip Lindsay,Tee Higgins,Stefon Diggs,Ryan Tannehill,Christian Kirk
 BN6,Michael Pittman Jr.,Sterling Shepard,Deebo Samuel,Indianapolis,Jordan Wilkins,Jimmy Graham,Zack Moss,Keelan Cole Sr.,Damien Harris,Latavius Murray
-BN7,Los Angeles,Emmanuel Sanders,James White,,,CeeDee Lamb,Curtis Samuel,Taysom Hill,Sony Michel,Baltimore
-BN8,New York,,,,,,,,,
+BN7,New York,Emmanuel Sanders,James White,,Minnesota,CeeDee Lamb,Curtis Samuel,Taysom Hill,Sony Michel,Baltimore
+BN8,,,,,,,,,,
 K,Younghoe Koo,Harrison Butker,Rodrigo Blankenship,Matt Prater,Joey Slye,Wil Lutz,Jason Sanders,Justin Tucker,Mason Crosby,Ryan Succop
-DEF,,Pittsburgh,Miami,Seattle,Atlanta,Cleveland,Green Bay,Houston,New Orleans,Buffalo
+DEF,Los Angeles,Pittsburgh,Miami,Seattle,,Cleveland,Green Bay,Houston,New Orleans,Buffalo
